@@ -1,0 +1,11 @@
+Susan:  David, would you like something to eat?
+David:  No, I'm full.
+Susan:  Do you want something to drink?
+David:  Yes, I'd like some coffee.
+Susan:  Sorry, I don't have any coffee.
+David:  That's OK. I'll have a glass of water.
+Susan:  A small glass, or a big one?
+David:  Small please.
+Susan:  Here you go.
+David:  Thanks.
+Susan:  You're welcome.

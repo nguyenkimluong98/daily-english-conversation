@@ -1,0 +1,11 @@
+George:  What's today's date?
+Sandra:  It's July 5th.
+George:  When are you going on vacation?
+Sandra:  I'm leaving on Sunday. We're going to Canada.
+George:  Really? The day after tomorrow? That's very soon.
+Sandra:  Yeah I know.
+George:  How long are you going to stay there?
+Sandra:  About 2 weeks.
+George:  When are you coming back?
+Sandra:  I'm coming back on the 17th.
+George:  Alright. Have a nice trip.

@@ -1,0 +1,15 @@
+Joe:  Laura, what are you going to do today?
+Laura:  I'm going shopping.
+Joe:  What time are you leaving?
+Laura:  I'm going to leave around 4 O'clock.
+Joe:  Will you buy a ham sandwich for me at the store?
+Laura:  OK.
+Joe:  Do you have enough money?
+Laura:  I'm not sure.
+Joe:  How much do you have?
+Laura:  25 dollars. Do you think that's enough?
+Joe:  That's not very much.
+Laura:  I think it's OK. I also have two credit cards.
+Joe:  Let me give you another ten dollars.
+Laura:  Thanks. See you later.
+Joe:  Bye.

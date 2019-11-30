@@ -1,0 +1,15 @@
+Josh:  Hi Rachel!
+Rachel:  Hi Josh! It's been a long time. Where are you working now?
+Josh:  I work at a software company downtown. I'm an engineer.
+Rachel:  That's interesting. What kind of software do you write?
+Josh:  It's a database for small businesses.
+Rachel:  Does your company have a website?
+Josh:  Yes.
+Rachel:  What's the website address?
+Josh:  www.sun.com
+Rachel:  How can I get the software?
+Josh:  You can download it from the website. It's very popular and it's free.
+Rachel:  OK, I'll do that. I have to go now. It was really nice seeing you again.
+Josh:  It was nice seeing you too. Email me next week and we'll get together for coffee.
+Rachel:  My computer is broken so I can't send email right now. Can I call you?
+Josh:  Sure, my number is 233-288-2328.

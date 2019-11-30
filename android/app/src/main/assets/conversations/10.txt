@@ -1,0 +1,11 @@
+Host:  Hello sir, welcome to the French Garden Restaurant. How many?
+Charles:  One.
+Host:  Right this way. Please have a seat. Your waitress will be with you in a moment.
+Waitress:  Hello sir, would you like to order now?
+Charles:  Yes please.
+Waitress:  What would you like to drink?
+Charles:  What do you have?
+Waitress:  We have bottled water, juice, and Coke.
+Charles:  I'll have a bottle of water please.
+Waitress:  What would you like to eat?
+Charles:  I'll have a tuna fish sandwich and a bowl of vegetable soup.

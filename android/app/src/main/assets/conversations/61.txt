@@ -1,0 +1,17 @@
+Doctor:  Hello Mrs. Wilson.
+Mrs. Wilson:  Hi Doctor.
+Doctor:  How are you feeling?
+Mrs. Wilson:  I don't feel good.
+Doctor:  What's bothering you?
+Mrs. Wilson:  I have a stomachache and a headache.
+Doctor:  Where does it hurt?
+Mrs. Wilson:  Here.
+Doctor:  Do you have a fever?
+Mrs. Wilson:  No, I don't think so.
+Doctor:  OK. Let me look at your throat. Open your mouth. Your throat's red. Does it hurt?
+Mrs. Wilson:  Yes. It's sore.
+Doctor:  When did it start to feel this way?
+Mrs. Wilson:  Last week.
+Doctor:  I think you have a virus. It might be the flu. I'm going to give you a prescription for some medicine.
+Mrs. Wilson:  Thank you.
+Doctor:  Try to get some rest, and be sure to drink lots of water and orange juice.

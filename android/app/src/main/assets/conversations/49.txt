@@ -1,0 +1,20 @@
+Vicky:  Hello?
+Ben:  Hi Vicky.
+Vicky:  Are you there yet?
+Ben:  Yes.
+Vicky:  I just got off the subway. I'm almost there. Sorry I'm late.
+Ben:  That's no problem. I just wanted to tell you I'm inside.
+Vicky:  Where are you?
+Ben:  On the second floor.
+Vicky:  Should I come to the second floor or do you want to come to the first floor?
+Ben:  Come upstairs.
+Vicky:  What?
+Ben:  Oh, Can you hear me OK? I said, come to the second floor.
+Vicky:  Oh, OK. What are you doing there?
+Ben:  Just looking at some books on how to learn English.
+Vicky:  Do you want to get something to eat later?
+Ben:  No, I'm still full from dinner.
+Vicky:  What do you want to do?
+Ben:  I don't know for sure. When you get here we'll talk about it.
+Vicky:  OK, see you soon.
+Ben:  Bye.

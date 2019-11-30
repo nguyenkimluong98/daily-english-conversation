@@ -1,0 +1,17 @@
+Sharon:  Hi George, do you know how to get downtown?
+George:  Sure. Why are you going there?
+Sharon:  I want to buy a new computer.
+George:  OK, are you driving?
+Sharon:  Yes.
+George:  Go straight down this road. When you get to the second light, take a left. Then get on the highway and take exit 52.
+Sharon:  That sounds really complicated. Can you tell me again? Which road do I take first?
+George:  You go down this road, then at the second light turn left. That road is Main street.
+Sharon:  OK, I think I've got it now.
+George:  Why are you buying a new computer anyway? Didn't you just get one a few months ago?
+Sharon:  Yes, but it doesn't work anymore.
+George:  Where did you buy it?
+Sharon:  At Wal-Mart.
+George:  I think you're computer should still be under warranty. You can bring it back to them and they'll fix it for free.
+Sharon:  I think you're right. I didn't think about that. I should go talk to them about it. Where is the closest Wal-Mart?
+George:  It's about 2 blocks from here. I have to go there to get some stuff now anyway. Do you want to follow me?
+Sharon:  Sure.

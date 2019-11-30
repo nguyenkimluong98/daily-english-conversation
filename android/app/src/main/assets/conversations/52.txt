@@ -1,0 +1,15 @@
+Angela:  Hello?
+Dan:  Hi Angela, it's Dan.
+Angela:  Hi Dan. How are you?
+Dan:  Good.
+Angela:  I called you yesterday. Did you get my message?
+Dan:  Yes, I was taking a shower when you called. I saw that you called and I tried to call you back, but I think your phone was off.
+Angela:  No problem. I wanted to remind you that my friend is getting married next week. You're still coming to the wedding with me, right?
+Dan:  Oh, is that next week?
+Angela:  Yes. Did you forget?
+Dan:  No, of course not. I already bought them a present.
+Angela:  That's good. I want to invite Megan also. Next time you see her, can you tell her for me.
+Dan:  Sure. Does she know your friend?
+Angela:  Yes, I think they might have gone to the same college or something like that. I'm not exactly sure how they know each other.
+Dan:  Are we all going to drive together?
+Angela:  Yes. I'll pick you up first, and then we'll go get Megan.

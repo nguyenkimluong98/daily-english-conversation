@@ -1,0 +1,16 @@
+Linda:  Hi Mark.
+Mark:  Hi.
+Linda:  What are you planning to do today?
+Mark:  I'm not sure yet.
+Linda:  Would you like to have lunch with me?
+Mark:  Yes. When?
+Linda:  Is 11
+Mark:  Sorry, I didn't hear you. Can you say that again please?
+Linda:  I said, 11
+Mark:  Oh, I'm busy then. Can we meet a little later?
+Linda:  OK, how about 12
+Mark:  OK. Where?
+Linda:  How about Bill's Seafood Restaurant?
+Mark:  Oh, Where is that?
+Linda:  It's on 7th Street.
+Mark:  OK, I'll meet you there.

@@ -1,0 +1,10 @@
+Thomas:  Hi Sarah, how are you?
+Sarah:  Fine, how are you doing?
+Thomas:  OK.
+Sarah:  What do you want to do?
+Thomas:  I'm hungry. I'd like to eat something.
+Sarah:  Where do you want to go?
+Thomas:  I'd like to go to an Italian restaurant.
+Sarah:  What kind of Italian food do you like?
+Thomas:  I like spaghetti. Do you like spaghetti?
+Sarah:  No, I don't, but I like pizza.

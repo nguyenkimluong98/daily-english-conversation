@@ -1,0 +1,18 @@
+Receptionist:  Good afternoon, how may I help you?
+Ryan:  Hi, I'd like to order some flowers.
+Receptionist:  Who are they for?
+Ryan:  They're for my Wife. Her name is Samantha.
+Receptionist:  What kind of flowers would you like?
+Ryan:  I don't know. I don't know too much about flowers. Can you recommend something?
+Receptionist:  OK. What's the reason you are sending her flowers?
+Ryan:  Today's her birthday and she told me she wants me to buy her flowers.
+Receptionist:  Do you know what kind of flowers she likes?
+Ryan:  I'm not sure. I know I should know that, but I can't remember right now.
+Receptionist:  Well, they're for your wife, so I think you should give her roses.
+Ryan:  Roses will be fine.
+Receptionist:  What color?
+Ryan:  I think red would be nice.
+Receptionist:  Do you want to pick them up or should we deliver them?
+Ryan:  Can you deliver them please.
+Receptionist:  What's the address?
+Ryan:  241 Main street.

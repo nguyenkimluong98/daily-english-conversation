@@ -1,0 +1,15 @@
+Amy:  Hi Michael.
+Michael:  Hi Amy. What's up?
+Amy:  I'm looking for the airport. Can you tell me how to get there?
+Michael:  No, sorry. I don't know.
+Amy:  I think I can take the subway to the airport. Do you know where the subway is?
+Michael:  Sure, it's over there.
+Amy:  Where? I don't see it.
+Michael:  Across the street.
+Amy:  Oh, I see it now. Thanks.
+Michael:  No problem.
+Amy:  Do you know if there's a restroom around here?
+Michael:  Yes, there's one here. It's in the store.
+Amy:  Thank you.
+Michael:  Bye.
+Amy:  Bye bye.

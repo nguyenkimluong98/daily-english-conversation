@@ -1,0 +1,14 @@
+Michelle:  Charles, do you have any children?
+Charles:  Yes.
+Michelle:  How many children do you have?
+Charles:  I have two kids. A boy and a girl.
+Michelle:  What are their names?
+Charles:  Jack and Stephanie.
+Michelle:  How old are they?
+Charles:  Stephanie is 18 and Jack is 24.
+Michelle:  Are they in school?
+Charles:  Stephanie is. She goes to college in Washington and Jack works in Florida.
+Michelle:  What does Stephanie study?
+Charles:  She studies English.
+Michelle:  Is she here now?
+Charles:  No, she's at school.

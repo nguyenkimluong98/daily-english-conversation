@@ -1,0 +1,18 @@
+Karen:  Hello Richard.
+Richard:  Hi Karen.
+Karen:  How have you been?
+Richard:  Not too good.
+Karen:  Why?
+Richard:  I'm sick.
+Karen:  Sorry to hear that.
+Richard:  Its OK. Its not serious.
+Karen:  That's good. How's your wife?
+Richard:  She's good.
+Karen:  Is she in America now?
+Richard:  No, she's not here yet.
+Karen:  Where is she?
+Richard:  She's in Canada with our kids.
+Karen:  I see. I have to go now. Please tell your wife I said hi.
+Richard:  OK, I'll talk to you later.
+Karen:  I hope you feel better.
+Richard:  Thanks.

@@ -1,0 +1,17 @@
+Receptionist:  Good evening.
+Jim:  Hi. Do you have any vacancies tonight?
+Receptionist:  Yes. The rate is 55 dollars.
+Jim:  Do the rooms have internet access?
+Receptionist:  We have wireless. If you have a computer you can use the wireless network for an additional 5 dollars.
+Jim:  OK, I'd like a room please.
+Receptionist:  Would you like a smoking or a non-smoking room?
+Jim:  Non-smoking.
+Receptionist:  How will you be paying?
+Jim:  Visa. Here you are.
+Receptionist:  How many people?
+Jim:  Two.
+Receptionist:  Would you like a king size bed or two double beds?
+Jim:  King size please.
+Receptionist:  You're in room 237. It's on the second floor. Here's your key. Sign here please.
+Jim:  What time is checkout?
+Receptionist:  11

@@ -1,0 +1,17 @@
+Kim:  William, do you like studying English?
+William:  I like studying English, and I can read well, but speaking can be difficult.
+Kim:  It's not that bad. If you talk to your American friends every day, you'll learn quickly.
+William:  Can I ask you a question?
+Kim:  Sure, what do you want to know?
+William:  I have my book from class here. How do you say this word?
+Kim:  Laptop
+William:  Sorry, I don't understand. What does that mean?
+Kim:  A laptop is a type of computer that you can carry with you. Do you understand?
+William:  Yes, I think so. Can you say it again?
+Kim:  Laptop.
+William:  Laptop. Did I pronounce that correctly?
+Kim:  Yes, that's right. That's very good.
+William:  Thanks. And this word? How do you pronounce this?
+Kim:  That word is pronounced kitchen.
+William:  Thanks so much. You're a good teacher.
+Kim:  Thanks.

@@ -1,0 +1,16 @@
+Cathy:  Hello, how may I help you?
+Alex:  I'd like to send this package to California.
+Cathy:  Would you like to send it overnight or by regular mail?
+Alex:  How much is it to send it overnight?
+Cathy:  20 dollars
+Alex:  And by regular mail?
+Cathy:  12 dollars.
+Alex:  I'd like it to get there tomorrow.
+Cathy:  Please fill out this form. When you're finished, come back to this window.
+Alex:  OK, I think I'm done, is this correct?
+Cathy:  Yes, that's right.
+Alex:  I'd also like to mail this letter.
+Cathy:  Do you need to buy stamps?
+Alex:  Yes.
+Cathy:  A book of stamps costs 3 dollars. So that'll be 23 dollars for everything.
+Alex:  Oh, I forgot my wallet in the car. I'll be right back.

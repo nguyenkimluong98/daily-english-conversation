@@ -1,0 +1,17 @@
+Rebecca:  This looks like a nice restaurant.
+Scott:  Yeah, it is. I come here all the time.
+Rebecca:  Let's sit over there.
+Scott:  OK.
+Rebecca:  Can you pass me a menu please.
+Scott:  Sure. What are you going to have to drink?
+Rebecca:  I'm going to have a glass of beer. How about you?
+Scott:  I think I'll have a glass of wine.
+Rebecca:  Do you want to order an appetizer first?
+Scott:  Not really, maybe we can just order some bread.
+Rebecca:  OK. What are you going to have to eat?
+Scott:  I'm not sure. I haven't decided yet. Can you recommend something?
+Rebecca:  Sure, I've had the steak and the lobster before. They're both very good.
+Scott:  I think I'll have the lobster. What are you going to have?
+Rebecca:  I'm not that hungry. I think I'm just going to have a salad.
+Scott:  I'm gonna go to the bathroom. When the waitress comes back, will you order for me?
+Rebecca:  Sure. No problem.

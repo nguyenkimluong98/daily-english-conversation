@@ -1,0 +1,60 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AIBReactNative' do
+    
+    rn_path = '../node_modules/react-native'
+    
+    pod 'React', path: rn_path, subspecs: [
+    'Core',
+    'CxxBridge',
+    'DevSupport',
+    'RCTActionSheet',
+    'RCTAnimation',
+    'RCTGeolocation',
+    'RCTImage',
+    'RCTLinkingIOS',
+    'RCTNetwork',
+    'RCTSettings',
+    'RCTText',
+    'RCTVibration',
+    'RCTWebSocket',
+    'ART'
+    ]
+   pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+   pod 'DoubleConversion', :podspec => "#{rn_path}/third-party-podspecs/DoubleConversion.podspec"
+   pod 'glog', :podspec => "#{rn_path}/third-party-podspecs/glog.podspec"
+   pod 'Folly', :podspec => "#{rn_path}/third-party-podspecs/Folly.podspec"
+   pod 'RNStoreReview', :path => '../node_modules/react-native-store-review/ios'
+   pod 'RNI18n', :path => '../node_modules/react-native-i18n'
+   pod 'ReactNativePermissions', :path => '../node_modules/react-native-permissions'
+   pod 'ReactNativeFabric', :path => '../node_modules/react-native-fabric'
+   pod 'RNShare', :path => '../node_modules/react-native-share'
+   pod 'Google-Mobile-Ads-SDK'
+   pod 'FBAudienceNetwork'
+   pod 'Fabric'
+   pod 'Crashlytics'
+   pod 'lottie-ios', :podspec => '../node_modules/lottie-ios/lottie-ios.podspec'
+   pod 'lottie-react-native', :podspec => '../node_modules/lottie-react-native/lottie-react-native.podspec'
+   
+  pod 'RNSound', :path => '../node_modules/react-native-sound'
+
+  pod 'TextToSpeech', :path => '../node_modules/react-native-tts'
+
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+
+end
+
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        if target.name == "React"
+            target.remove_from_project
+        end
+        
+        targets_to_ignore = %w(React yoga)
+        if targets_to_ignore.include? target.name
+            target.remove_from_project
+        end
+    end
+end
+

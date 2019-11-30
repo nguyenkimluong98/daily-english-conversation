@@ -1,0 +1,14 @@
+Linda:  Are you hungry?
+Robert:  No, why?
+Linda:  We've been driving for a long time. I think we'd better find some place to eat soon.
+Robert:  No, I'm OK. We're late so we'd better not stop.
+Linda:  We've passed that same store three times already. I think we're lost. We should ask someone for directions.
+Robert:  We're not lost.
+Linda:  I've never gone this way before. Do you know where you're going?
+Robert:  Yes, this road goes through town. It's faster than the highway.
+Linda:  OK. Would you mind driving a little slower please?
+Robert:  Sure, no problem.
+Linda:  Did you see that sign back there? I think this is a one way street.
+Robert:  No, I didn't see it. I'm going to have to turn around.
+Linda:  You can't turn around here. I think you should let me drive.
+Robert:  I think you're right. I'm getting tired.

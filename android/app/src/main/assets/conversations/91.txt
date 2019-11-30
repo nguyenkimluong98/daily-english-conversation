@@ -1,0 +1,14 @@
+Anna:  Hi Jason, Sorry to bother you. I have a question for you.
+Jason:  OK, what's up?
+Anna:  I've been having a problem with my computer. I know you're an engineer so I thought you might be able to help me.
+Jason:  I see. What's the problem?
+Anna:  I have a file that I can't open for some reason.
+Jason:  What type of file is it?
+Anna:  It's a Word document I've been working on. I need to finish it by tomorrow.
+Jason:  Were you able to open it before, on the computer you're using now?
+Anna:  Yes, I was working on it last night and everything was fine, but this morning I couldn't open the file.
+Jason:  Do you think your computer might have a virus?
+Anna:  No, I checked and there weren't any.
+Jason:  OK. I'm not sure what's wrong. If it's possible, email the file to me and I'll see if I can get it to open.
+Anna:  OK, I'll do that when I get home. Are you going to be around tonight?
+Jason:  Yeah, I'll be home after 8PM. Send it to me when you get a chance and I'll call you later.

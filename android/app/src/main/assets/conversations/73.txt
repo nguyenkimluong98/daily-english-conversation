@@ -1,0 +1,17 @@
+Barbara:  Adam, can you do me a favor?
+Adam:  Sure.
+Barbara:  I can't find my purse. Can you help me?
+Adam:  No problem, I'll help you look for it.
+Barbara:  Thanks.
+Adam:  What color is it?
+Barbara:  It's black.
+Adam:  Did you look in the kitchen?
+Barbara:  Yes, I already looked there.
+Adam:  I'll look in the living room.
+Barbara:  Did you find it?
+Adam:  No. It's not in there. When was the last time you saw it?
+Barbara:  I had it when I went to the library this morning.
+Adam:  Do you think you might have left it there?
+Barbara:  Maybe. I'll call the library and ask them if anyone found it.
+Adam:  Wait! Is this it?
+Barbara:  Yes, That's it. That's my purse. Thanks for helping me find it.

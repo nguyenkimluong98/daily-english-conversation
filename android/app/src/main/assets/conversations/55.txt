@@ -1,0 +1,16 @@
+Tracy:  How are you feeling?
+Alan:  I still have a cold.
+Tracy:  Still? It's been over a week now, hasn't it?
+Alan:  Yeah, its been a while. I started feeling this way last Monday.
+Tracy:  Are you feeling any better?
+Alan:  A little. I took some medicine this morning and I feel a little better now.
+Tracy:  What's wrong?
+Alan:  I have a bad cough.
+Tracy:  Did you go see the doctor yet?
+Alan:  Not yet, I might go tomorrow.
+Tracy:  I'm going to the drug store now, can I get you anything?
+Alan:  Yes, if it's not too much trouble, would you get me some tissues.
+Tracy:  Sure. Anything else?
+Alan:  No, that's it.
+Tracy:  OK, I'll be back in about an hour. If you think of anything else you need, give me a call.
+Alan:  Thanks.

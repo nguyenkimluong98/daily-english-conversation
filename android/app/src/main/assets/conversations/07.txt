@@ -1,0 +1,12 @@
+Richard:  Mary, would you like to get something to eat with me?
+Mary:  OK. When?
+Richard:  At 10 O'clock.
+Mary:  10 in the morning?
+Richard:  No, at night.
+Mary:  Sorry, that's too late. I usually go to bed around 10
+Richard:  OK, how about 1
+Mary:  No, that's too early. I'll still be at work then.
+Richard:  How about 5
+Mary:  That's fine.
+Richard:  OK, see you then.
+Mary:  Alright. Bye.

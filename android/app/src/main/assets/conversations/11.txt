@@ -1,0 +1,12 @@
+Elizabeth:  Chris, where are you going?
+Chris:  I'm going to the store. I need to buy something.
+Elizabeth:  Really? I need to go to the store too.
+Chris:  Would you like to come with me?
+Elizabeth:  Yeah, let's go together.
+Chris:  Would you like to go now or later?
+Elizabeth:  Now.
+Chris:  What?
+Elizabeth:  Now would be better.
+Chris:  OK, let's go.
+Elizabeth:  Should we walk?
+Chris:  No, it's too far. Let's drive.

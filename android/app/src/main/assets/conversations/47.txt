@@ -1,0 +1,12 @@
+Tina:  Hello?
+Joe:  Hi Tina, It's Joe.
+Tina:  Hi Joe.
+Joe:  How's the weather there today?
+Tina:  It's really cold. It snowed all day and the schools closed early.
+Joe:  What's the temperature?
+Tina:  It's 30 degrees now. It was even colder this morning.
+Joe:  Have you heard what the weather is going to be like tomorrow?
+Tina:  I was watching the news a little earlier. They said it's probably going to snow tomorrow.
+Joe:  I really don't like the winter. I wish it were summer.
+Tina:  Me too. How's the weather where you are?
+Joe:  It's not too bad, but it's pretty cold here too. It was about 45 today and it rained this afternoon. I heard it's going to be a little warmer tomorrow.

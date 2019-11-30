@@ -1,0 +1,9 @@
+Mary:  Excuse me, are you American?
+Robert:  No.
+Mary:  Do you speak English?
+Robert:  A little, but not very well.
+Mary:  How long have you been here?
+Robert:  2 months.
+Mary:  What do you do for work?
+Robert:  I'm a student. How about you?
+Mary:  I'm a student too.

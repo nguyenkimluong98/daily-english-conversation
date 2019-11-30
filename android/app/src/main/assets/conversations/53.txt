@@ -1,0 +1,19 @@
+Adam:  Hi, I'd like to see the doctor, please.
+Receptionist:  Do you have an appointment?
+Adam:  No.
+Receptionist:  When would you like an appointment?
+Adam:  Is today possible?
+Receptionist:  Yes. Today is fine. What time would you like?
+Adam:  As soon as possible. My stomach really hurts.
+Receptionist:  Please wait a moment. I'll see if the doctor is available.
+Adam:  OK.
+Receptionist:  Sorry, he's with a patient right now. It's probably going to be about another 30 minutes. Would you mind waiting a little longer?
+Adam:  No problem.
+Receptionist:  May I see your insurance card please.
+Adam:  Here you are.
+Receptionist:  Thanks. That's going to be 25 dollars for today's visit.
+Adam:  Really? I didn't think it would be that much.
+Receptionist:  I know how you feel.
+Adam:  I'll pay with cash.
+Receptionist:  Thank you.
+Adam:  Would you please turn on the heat? It's really cold in here.

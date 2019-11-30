@@ -1,0 +1,14 @@
+Taxi driver:  Hello Miss, do you need a taxi?
+Mary:  Yes.
+Taxi driver:  Do you have any luggage?
+Mary:  Just these two suitcases.
+Taxi driver:  OK, I'll put them in the back for you. Where are you going?
+Mary:  The Comfort Inn.
+Taxi driver:  I think there are two in Boston. Which one are you going to?
+Mary:  The one downtown.
+Taxi driver:  Is this your first time in Boston?
+Mary:  No. I've been here many times. I come here for work all the time. Do you know how long it'll take?
+Taxi driver:  It shouldn't take long. Probably about 15 minutes.
+Mary:  Wow, it looks like the traffic is really bad.
+Taxi driver:  Yeah, there might be an accident up ahead.
+Mary:  OK, then stop at the next intersection. I'm gonna get out there and take the subway.

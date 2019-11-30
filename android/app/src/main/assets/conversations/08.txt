@@ -1,0 +1,14 @@
+Charles:  Jennifer, would you like to have dinner with me?
+Jennifer:  Yes. That would be nice. When do you want to go?
+Charles:  Is today OK?
+Jennifer:  Sorry, I can't go today.
+Charles:  How about tomorrow night?
+Jennifer:  Ok. What time?
+Charles:  Is 9
+Jennifer:  I think that's too late.
+Charles:  Is 6
+Jennifer:  Yes, that's good. Where would you like to go?
+Charles:  The Italian restaurant on 5th street.
+Jennifer:  Oh, I don't like that Restaurant. I don't want to go there.
+Charles:  How about the Korean restaurant next to it?
+Jennifer:  OK, I like that place.

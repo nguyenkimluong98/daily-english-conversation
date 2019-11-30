@@ -1,0 +1,11 @@
+James:  Hello.
+Lisa:  Hi.
+James:  How are you?
+Lisa:  I'm good. How are you?
+James:  Good. Do you speak English?
+Lisa:  A little. Are you American?
+James:  Yes.
+Lisa:  Where are you from?
+James:  I'm from California.
+Lisa:  Nice to meet you.
+James:  Nice to meet you too.

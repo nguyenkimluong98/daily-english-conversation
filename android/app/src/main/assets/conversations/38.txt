@@ -1,0 +1,16 @@
+Mandy:  Professor, where's Canada?
+Professor:  Canada is north of here.
+Mandy:  Can you show me on the map?
+Professor:  Sure. Look here. Canada is north of the United States.
+Mandy:  Oh, I see. Where's Mexico?
+Professor:  Mexico is south of the United States.
+Mandy:  How about Connecticut? Where's that?
+Professor:  Connecticut is east of New York.
+Mandy:  What state is west of Pennsylvania?
+Professor:  Ohio.
+Mandy:  OK, Where's Los Angeles?
+Professor:  Los Angeles is in California. It's southeast of San Francisco.
+Mandy:  Where's Boston.
+Professor:  Boston is in the northeast part of the country.
+Mandy:  Where is Las Vegas?
+Professor:  Las Vegas is in the southwest.

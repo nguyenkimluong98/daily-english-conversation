@@ -1,0 +1,18 @@
+James:  Hello?
+Linda:  Hi, is James there please?
+James:  Yes. Who's calling?
+Linda:  Linda.
+James:  One moment please.
+Linda:  OK.
+James:  Hello?
+Linda:  Hi James, it's Linda.
+James:  Hi Linda.
+Linda:  What are you doing now?
+James:  I'm working.
+Linda:  Are you busy?
+James:  Yes. It's been really busy here all day.
+Linda:  What time do you get off of work?
+James:  8
+Linda:  I'll call you back after 8
+James:  OK. Talk to you later.
+Linda:  Bye bye.

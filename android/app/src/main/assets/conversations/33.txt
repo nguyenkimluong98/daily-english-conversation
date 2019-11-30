@@ -1,0 +1,17 @@
+Ticket clerk:  Next please. Hello. How can I help you?
+Larry:  I'd like to buy a ticket to New York.
+Ticket clerk:  Would you like one way or round trip?
+Larry:  Round trip.
+Ticket clerk:  When will you be leaving?
+Larry:  When does the next plane leave?
+Ticket clerk:  In about 2 hours.
+Larry:  I'd like a ticket for that flight please.
+Ticket clerk:  First class or coach?
+Larry:  Coach.
+Ticket clerk:  OK, let me check availability. I'm sorry. Tickets for that flight are sold out.
+Larry:  How about the one after that?
+Ticket clerk:  Let me see. Yes, that one still has seats available. Would you like me to reserve a seat for you?
+Larry:  Yes, please.
+Ticket clerk:  That'll be 120 dollars.
+Larry:  OK.
+Ticket clerk:  Thank you, here's your change.

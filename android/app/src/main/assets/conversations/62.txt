@@ -1,0 +1,17 @@
+Receptionist:  Hello, Marriott Hotel, how may I help you?
+Nancy:  Hi. I'd like to make a reservation.
+Receptionist:  Just a moment. OK, for what date?
+Nancy:  July 25th.
+Receptionist:  How many nights will you be staying?
+Nancy:  2 nights. What's the room rate?
+Receptionist:  75 dollars a night plus tax. Would you like me to reserve a room for you?
+Nancy:  Yes please.
+Receptionist:  Your name?
+Nancy:  Nancy Anderson.
+Receptionist:  Miss Anderson, how will you be paying?
+Nancy:  Visa.
+Receptionist:  Card number please.
+Nancy:  4198 2289 3388 228.
+Receptionist:  Expiration date?
+Nancy:  1/9/2012
+Receptionist:  OK, You're all set. We'll see you on the 25th.

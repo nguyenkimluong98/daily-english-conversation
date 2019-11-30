@@ -1,0 +1,19 @@
+Dan:  Excuse me.
+Maria:  Hello sir, may I help you?
+Dan:  Yes. Can I see that shirt on the top shelf please?
+Maria:  Sure. Here it is.
+Dan:  How much does it cost?
+Maria:  50 dollars.
+Dan:  50 dollars. That's too much.
+Maria:  How about this one? It's on sale for only 35 dollars.
+Dan:  I don't like that one.
+Maria:  How about the one next to the black gloves? It's very similar to the one you like.
+Dan:  That's nice. How much is it?
+Maria:  30 dollars.
+Dan:  That'll be fine.
+Maria:  Is this color OK, or would you like a different color?
+Dan:  That blue one's fine.
+Maria:  Do you need any more of these shirts?
+Dan:  Yes.
+Maria:  How many do you want?
+Dan:  I'll take two more, a red one and a white one.

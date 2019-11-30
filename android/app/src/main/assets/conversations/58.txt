@@ -1,0 +1,11 @@
+Sharon:  Hello?
+George:  Hi Sharon it's George again. What time do you think you'll get to the party tonight?
+Sharon:  Sorry, what did you say?
+George:  Hello, can you hear me? I said what time do you think you'll be getting to the party?
+Sharon:  Sorry, I can't hear you.
+George:  Can you hear me now?
+Sharon:  No, not very clearly. It's really noisy here.
+George:  It might be my cell phone, I don't think I have very good reception.
+Sharon:  Oh, that's OK.
+George:  Can I call you right back?
+Sharon:  OK.

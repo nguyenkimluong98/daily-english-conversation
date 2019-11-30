@@ -1,0 +1,14 @@
+Michael:  Robert, this is my friend, Mrs. Smith.
+Robert:  Hi, Nice to meet you.
+Mrs. Smith:  Nice to meet you too.
+Robert:  Mrs. Smith, what do you do for work?
+Mrs. Smith:  I'm a doctor.
+Robert:  Oh. Where do you work?
+Mrs. Smith:  New York University hospital in New York City. What do you do?
+Robert:  I'm a teacher.
+Mrs. Smith:  What do you teach?
+Robert:  I teach English.
+Mrs. Smith:  Where?
+Robert:  At a high school in New Jersey.
+Mrs. Smith:  That's nice. How old are you?
+Robert:  I'm 32.

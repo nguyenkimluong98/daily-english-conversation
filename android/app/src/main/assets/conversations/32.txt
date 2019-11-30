@@ -1,0 +1,14 @@
+Tim:  Excuse me. Check please.
+Waitress:  OK, how was everything?
+Tim:  Very nice. Thank you.
+Waitress:  Would you like this to-go?
+Tim:  Yes, can you put it in a plastic bag?
+Waitress:  Sure, no problem. Here you are. That'll be 25 dollars.
+Tim:  Do you take credit cards?
+Waitress:  Yes, we accept Visa and MasterCard.
+Tim:  OK, here you are.
+Waitress:  Thanks. I'll be right back.
+Tim:  OK.
+Waitress:  Here's your receipt.
+Tim:  Thank you.
+Waitress:  You're welcome. Please come again.

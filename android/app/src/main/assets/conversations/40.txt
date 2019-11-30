@@ -1,0 +1,14 @@
+Jerry:  Ann what do you want to do tonight?
+Ann:  I'd like to go see a movie.
+Jerry:  I heard Titanic is playing at the movie theater.
+Ann:  Oh, I've heard that's a good movie. What time does it start?
+Jerry:  6
+Ann:  Will you come and pick me up?
+Jerry:  What time?
+Ann:  I think we should get there early because they might be sold out. Is 5
+Jerry:  Yes, that'll be fine. I'll meet you at your house at 5
+Ann:  Do you want to get something to eat before the movie?
+Jerry:  I'm not sure there will be enough time for that. We can have popcorn and hot dogs at the theater if you want.
+Ann:  I don't like the popcorn they have there. I think they put too much salt on it.
+Jerry:  OK then, I'll pick you up a little earlier and we can go to the Thai restaurant next to the theater, is that OK?
+Ann:  Yes, I like that place.

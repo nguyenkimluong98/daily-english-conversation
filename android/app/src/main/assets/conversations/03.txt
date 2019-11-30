@@ -1,0 +1,11 @@
+John:  Excuse me, what's your name?
+Jessica:  My name is Jessica. What's yours?
+John:  John.
+Jessica:  You speak English very well.
+John:  Thank you.
+Jessica:  Do you know what time it is?
+John:  Sure. It's 5
+Jessica:  What did you say?
+John:  I said it's 5
+Jessica:  Thanks.
+John:  You're welcome.

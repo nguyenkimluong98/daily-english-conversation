@@ -1,0 +1,20 @@
+Matt:  I can't find my glasses and I can't see anything. Can you help me find a few things?
+Anna:  No problem. What are you looking for?
+Matt:  My laptop, do you see it?
+Anna:  Yes, your laptop is on the chair.
+Matt:  Where's my book?
+Anna:  Which one?
+Matt:  The dictionary.
+Anna:  It's under the table.
+Matt:  Where's my pencil?
+Anna:  There's a pencil in front of the lamp.
+Matt:  That's not a pencil. That's a pen.
+Anna:  Oh, sorry. There is a pencil behind the cup.
+Matt:  How about my backpack? Do you know where that is?
+Anna:  It's in between the wall and the bed.
+Matt:  Where are my shoes?
+Anna:  They're on the left side of the TV.
+Matt:  I don't see them.
+Anna:  Sorry, I made a mistake. They're on the right side of the TV.
+Matt:  Thanks.
+Anna:  Oh, and here are your glasses. They were next to your cell phone.
